@@ -39,3 +39,5 @@ public class Ex05PreOrdem {
     }
 
 }
+
+//ver se deu certo
